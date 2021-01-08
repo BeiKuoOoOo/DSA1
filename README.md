@@ -1,4 +1,4 @@
-# DSA1
+# ECE 264 - Data Structure and Algorithem 1
 Cooper Union Data Structure and Algorithm 1 coding projects
 
 Project 1: Code that manipulates stack and queue
